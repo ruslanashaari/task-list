@@ -18,7 +18,7 @@
 7. Happy exploring the codes and features!
 
 ## Future plan
-1. Adding full test script using PHPUnit
-2. Implement boostrap template
-3. Implement vue.js framework
-4. Implement docker
+- [ ] Adding full test script using PHPUnit
+- [ ] Implement boostrap template
+- [ ] Implement vue.js framework
+- [ ] Implement docker
